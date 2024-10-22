@@ -159,7 +159,7 @@ program define CALCULATOR_MONETARY
 	* Remove the columns from the rules dataset 
 	**************************************************************************************************************
 	
-	drop matching_year matching_state MON_Full_formula MON_Min_HQE_* MON_Min_BPE_*  MON_Min_hours_* MON_Min_notHQE_* MON_Two_quarters_*           MON_Extra_Info MON_Min_2HQE_*  MON_eligibility_non_missing  MON_Second_method MON_Method MON_Method_num WBA_calc_method WBA_linear_term_AWW WBA_min_valu* WBA_max_valu* WBA_linear_term_2HQE WBA_linear_term_HQE WBA_linear_term_BPE WBA_intercept_HQ* WBA_simple_calc_method WBA_calc_method_num WBA_which_method_num Predict_eligibility_1 Predict_eligibility_2 SEP_avg_eligibility1 SEP_avg_eligibility2 SEP_avg_eligibility3  
+	drop matching_year matching_state MON_Full_formula WBA_which_method MON_Min_HQE_* MON_Min_BPE_*  MON_Min_hours_* MON_Min_notHQE_* MON_Two_quarters_*           MON_Extra_Info MON_Min_2HQE_*  MON_eligibility_non_missing  MON_Second_method MON_Method MON_Method_num WBA_calc_method WBA_linear_term_AWW WBA_min_valu* WBA_max_valu* WBA_linear_term_2HQE WBA_linear_term_HQE WBA_linear_term_BPE WBA_intercept_HQ* WBA_simple_calc_method WBA_calc_method_num WBA_which_method_num Predict_eligibility_1 Predict_eligibility_2 SEP_avg_eligibility1 SEP_avg_eligibility2 SEP_avg_eligibility3  
 
 end
 
